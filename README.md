@@ -1,3 +1,4 @@
 # thunderbite
-git clone
-npm run build -> npm run start
+git clone&nbsp;
+npm run build &nbsp;
+npm run start
