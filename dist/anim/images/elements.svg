@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="650px" height="650px" viewBox="0 0 650 650" enable-background="new 0 0 650 650" xml:space="preserve">
+<polygon opacity="0.8" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" points="324.5,324.5 324.5,106.541 179.531,167.233 
+	107.663,324.5 "/>
+<polygon opacity="0.8" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" points="324.5,324.5 324.5,106.541 469.923,167.233 
+	542.246,324.5 "/>
+<polygon fill="#29ABE2" stroke="#000000" stroke-miterlimit="10" points="300.14,305.054 106.657,324.838 203.566,202.444 
+	324.619,107.546 "/>
+<polygon fill="#29ABE2" stroke="#000000" stroke-miterlimit="10" points="348.428,299.018 543.252,324.838 445.001,190.373 
+	325.29,107.546 "/>
+<polygon opacity="0.8" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" points="324.5,326.5 324.5,544.588 179.532,483.831 
+	107.664,326.5 "/>
+<polygon opacity="0.8" fill="#CCCCCC" stroke="#000000" stroke-miterlimit="10" points="324.5,326.5 324.5,544.588 469.923,483.831 
+	542.246,326.5 "/>
+<polygon fill="#29ABE2" stroke="#000000" stroke-miterlimit="10" points="300.141,346.075 106.657,326.291 203.566,448.685 
+	324.619,543.583 "/>
+<polygon fill="#29ABE2" stroke="#000000" stroke-miterlimit="10" points="348.428,352.11 543.252,326.291 445.001,460.757 
+	325.29,543.583 "/>
+<g>
+</g>
+<text transform="matrix(0.7071 -0.7071 0.7071 0.7071 226.0298 275.3599)" font-family="'MyriadPro-Regular'" font-size="30.6824">Earth</text>
+<text transform="matrix(0.7071 0.7071 -0.7071 0.7071 385.7236 232.3652)" font-family="'MyriadPro-Regular'" font-size="30.6824">Fire</text>
+<text transform="matrix(-0.7071 -0.7071 0.7071 -0.7071 269.0254 428.9121)" font-family="'MyriadPro-Regular'" font-size="30.6824">Water</text>
+<text transform="matrix(-0.7071 0.7071 -0.7071 -0.7071 416.4346 392.0586)" font-family="'MyriadPro-Regular'" font-size="30.6824">Air</text>
+<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="354.401,270.759 385.61,262.396 
+	377.247,293.604 "/>
+<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="280.614,359.969 273.344,391.448 
+	249.716,369.412 "/>
+<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="381.333,362.979 389.696,394.187 
+	358.488,385.824 "/>
+<polygon fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="292.124,289.191 260.644,281.921 
+	282.681,258.293 "/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="275.167" y1="287.644" x2="287.451" y2="275.36"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="391.866" y1="373.634" x2="373.439" y2="392.06"/>
+<g id="active">
+	<path fill="#CCCCCC" d="M305.036,32.605c0,0-1.137-22.192,19.021-22.192c25.197,0,17.824,28.33,17.824,28.33L324.129,80.92
+		L305.036,32.605z"/>
+	<circle fill="#E6E6E6" cx="324.786" cy="28.218" r="19.888"/>
+	<circle fill="#666666" cx="324.786" cy="28.218" r="3.509"/>
+</g>
+</svg>
